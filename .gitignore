@@ -1,0 +1,23 @@
+# Node modules and Expo
+node_modules/
+.expo/
+.expo-shared/
+
+# Editor and OS-specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment and log files
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and cache
+/build/
+/dist/
+.cache/
+web-build/
